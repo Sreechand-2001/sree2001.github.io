@@ -1,0 +1,22 @@
+.resume{
+	background:white;
+	font-family: Georgia, Helvetica, Serif;
+	border-radius: 40px;
+  	color: #06bccc;
+	margin: 170px 350px;
+  	width: 50%;
+  	height: 1400px;
+    border: 3px solid white;
+	padding: 40px;
+	
+    /*   background: -webkit-linear-gradient(purple, red);
+    
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+*/
+}
+ 
+.bg{
+  border: 30px solid white;
+  margin: -10px;  
+}
